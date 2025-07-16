@@ -3,4 +3,7 @@
 - Raycast class library
 - Simple console Test App
 - Unit tests (XUnit)
-- Unity demo project with raycast library as .dll 
+- Unity demo project with raycast library as .dll  
+
+
+![screenshot of sample](/Screenshot.png)
